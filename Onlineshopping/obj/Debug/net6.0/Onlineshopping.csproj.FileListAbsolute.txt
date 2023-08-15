@@ -1,0 +1,15 @@
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\bin\Debug\net6.0\Onlineshopping.exe
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\bin\Debug\net6.0\Onlineshopping.deps.json
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\bin\Debug\net6.0\Onlineshopping.runtimeconfig.json
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\bin\Debug\net6.0\Onlineshopping.dll
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\bin\Debug\net6.0\Onlineshopping.pdb
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.csproj.AssemblyReference.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.AssemblyInfoInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.AssemblyInfo.cs
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.csproj.CoreCompileInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.dll
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\refint\Onlineshopping.dll
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.pdb
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\Onlineshopping.genruntimeconfig.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlineshopping\obj\Debug\net6.0\ref\Onlineshopping.dll

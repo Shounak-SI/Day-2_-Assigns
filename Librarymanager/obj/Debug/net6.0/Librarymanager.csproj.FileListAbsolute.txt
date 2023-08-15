@@ -1,0 +1,15 @@
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.csproj.AssemblyReference.cache
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.AssemblyInfoInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.AssemblyInfo.cs
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.csproj.CoreCompileInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\bin\Debug\net6.0\Librarymanager.exe
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\bin\Debug\net6.0\Librarymanager.deps.json
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\bin\Debug\net6.0\Librarymanager.runtimeconfig.json
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\bin\Debug\net6.0\Librarymanager.dll
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\bin\Debug\net6.0\Librarymanager.pdb
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.dll
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\refint\Librarymanager.dll
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.pdb
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\Librarymanager.genruntimeconfig.cache
+C:\Users\nikita.dubey\Documents\.NET\Librarymanager\obj\Debug\net6.0\ref\Librarymanager.dll
