@@ -1,0 +1,15 @@
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.csproj.AssemblyReference.cache
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.AssemblyInfoInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.AssemblyInfo.cs
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.csproj.CoreCompileInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\bin\Debug\net6.0\StudentRecord.exe
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\bin\Debug\net6.0\StudentRecord.deps.json
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\bin\Debug\net6.0\StudentRecord.runtimeconfig.json
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\bin\Debug\net6.0\StudentRecord.dll
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\bin\Debug\net6.0\StudentRecord.pdb
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.dll
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\refint\StudentRecord.dll
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.pdb
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\StudentRecord.genruntimeconfig.cache
+C:\Users\nikita.dubey\Documents\.NET\StudentRecord\obj\Debug\net6.0\ref\StudentRecord.dll

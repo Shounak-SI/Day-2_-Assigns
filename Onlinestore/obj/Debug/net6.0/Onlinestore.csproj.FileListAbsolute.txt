@@ -1,0 +1,15 @@
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\bin\Debug\net6.0\Onlinestore.exe
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\bin\Debug\net6.0\Onlinestore.deps.json
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\bin\Debug\net6.0\Onlinestore.runtimeconfig.json
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\bin\Debug\net6.0\Onlinestore.dll
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\bin\Debug\net6.0\Onlinestore.pdb
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.csproj.AssemblyReference.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.AssemblyInfoInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.AssemblyInfo.cs
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.csproj.CoreCompileInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.dll
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\refint\Onlinestore.dll
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.pdb
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\Onlinestore.genruntimeconfig.cache
+C:\Users\nikita.dubey\Documents\.NET\Onlinestore\obj\Debug\net6.0\ref\Onlinestore.dll
